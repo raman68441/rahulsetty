@@ -49,7 +49,10 @@ System.out.println("kdiek");
 		System.out.println("kdiek");
 		System.out.println("kdiek");
 		System.out.println("kdiek");System.out.println("kdiek");
-		
+		System.out.println("kdiek");
+		System.out.println("kdiek");
+		System.out.println("kdiek");
+		System.out.println("kdiek");System.out.println("kdiek");
 		
 		
 		
