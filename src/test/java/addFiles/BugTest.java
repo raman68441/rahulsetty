@@ -45,6 +45,15 @@ given().pathParam("key", issueId)
 .multiPart("file",new File("C:\\Users\\User\\Downloads/chakali santosh.jpg")).log().all()
 .post("rest/api/3/issue/{key}/atachements")
 .then().log().all().assertThat().statusCode(200);
+System.out.println("kdiek");
+		System.out.println("kdiek");
+		System.out.println("kdiek");
+		System.out.println("kdiek");System.out.println("kdiek");
+		
+		
+		
+		
+		
 	}
 
 }
