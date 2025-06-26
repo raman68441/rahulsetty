@@ -35,6 +35,7 @@ public class DynamicJosn {
 	String id=js.get("ID");
 	
 	System.out.println(id);
+	System.out.println(id);
 	}
 
 	@DataProvider(name="BooksData")
@@ -46,6 +47,8 @@ public class DynamicJosn {
 				
 			
 		///kdiekkaildke251464143161461614
+			//kahtikri rmanjdiek dkiekdielkadi 
+		///	kdkiekklakdf31431313111111111111
 		
 	}
 	
